@@ -1,5 +1,5 @@
-### Hi there 👋 , I am Fidaa Shwahna
-### A Computer Science Student
+                               <h1 align="center">Hi there 👋 , I am Fidaa Shwahna</h1>
+                                <h2 align="center">A Computer Science Student</h2>
 <hr>
 
 Know about my experiences CV
