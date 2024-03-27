@@ -3,7 +3,7 @@
   <h2>A Computer Science Student</h2>
 </div>
 
-<hr><hr>
+<br><br><br><br><br><br>
 
 - I’m currently studying at Palestine Technical University - Kadoorie
 - My email programmerfidaa@gmail.com
