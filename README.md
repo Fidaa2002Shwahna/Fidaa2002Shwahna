@@ -25,3 +25,11 @@ Connect with me:
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" alt="CodeForces Badge" style="width:50px;height:50px;">
   </a>
 </div>
+
+
+Languages and Tools:
+<div>
+  <img src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" style="width:30px;height:30px;">
+
+</div>
+
