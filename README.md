@@ -1,5 +1,7 @@
-# Hi there 👋 , I am Fidaa Shwahna
-## A Computer Science Student
+<div align="center">
+  <h1 style="border:none;">Hi there 👋 , I am Fidaa Shwahna</h1>
+  <h2>A Computer Science Student</h2>
+</div>
 
 Know about my experiences CV
 - I’m currently studying at Palestine Technical University - Kadoorie
