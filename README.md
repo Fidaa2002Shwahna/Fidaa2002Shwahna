@@ -1,10 +1,3 @@
-<style>
-  h1, h2 { 
-    text-align: center; 
-    border-bottom: 0; 
-  }
-</style>
-
 <h1>Hi there 👋 , I am Fidaa Shwahna</h1>
 <h2>A Computer Science Student</h2>
 
