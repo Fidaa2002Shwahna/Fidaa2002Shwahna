@@ -26,6 +26,10 @@ Connect with me:
  <a href="https://codeforces.com/profile/fidaa_shwahna">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" alt="CodeForces Badge" style="width:50px;height:50px;">
   </a>
+
+   <a href="https://codepen.io/Fidaa2002Shwahna">
+    <img src="https://blog.codepen.io/wp-content/uploads/2014/03/codepen-logo.svg" alt="CodeForces Badge" style="width:50px;height:50px;">
+  </a>
 </div>
 
 <br>
