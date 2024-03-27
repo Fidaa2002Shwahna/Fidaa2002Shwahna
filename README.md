@@ -28,7 +28,7 @@ Connect with me:
   </a>
 
    <a href="https://codepen.io/Fidaa2002Shwahna">
-    <img src="https://blog.codepen.io/wp-content/uploads/2014/03/codepen-logo.svg" alt="CodeForces Badge" style="width:50px;height:50px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png" alt="CodeForces Badge" style="width:50px;height:50px;">
   </a>
 </div>
 
