@@ -3,14 +3,16 @@
   <h2>A Computer Science Student</h2>
 </div>
 
-<br><br><br><br><br><br>
+<br><br><br>
 
 - I’m currently studying at Palestine Technical University - Kadoorie
 - My email programmerfidaa@gmail.com
 - Know about my experiences [CV](https://drive.google.com/file/d/1rhfLAVdVtq5SThTtNr-JQRmVrCv1poQk/view?usp=sharing)
 
+<br><br><br>
 
 Connect with me:
+<br>
 <div id="badges">
   <a href="https://www.linkedin.com/in/fidaa-shwahna-5408b22b6/">
     <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" style="width:50px;height:50px;">
@@ -26,6 +28,7 @@ Connect with me:
   </a>
 </div>
 
+<br><br><br>
 
 Languages and Tools:
 <div>
@@ -41,3 +44,4 @@ Languages and Tools:
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" style="width:30px;height:30px;">
 </div>
 
+<br><br><br>
