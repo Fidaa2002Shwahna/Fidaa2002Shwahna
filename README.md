@@ -1,6 +1,6 @@
 ### Hi there 👋 , I am Fidaa Shwahna
 ### A Computer Science Student
-
+<hr>
 
 Know about my experiences CV
 -  I’m currently studying at Palestine Technical University - Kadoorie
