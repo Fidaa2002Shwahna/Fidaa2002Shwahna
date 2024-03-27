@@ -14,20 +14,20 @@
 Connect with me:
 <br>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/fidaa-shwahna-5408b22b6/" style="margin-left:1px;">
+  <a href="https://www.linkedin.com/in/fidaa-shwahna-5408b22b6/" style="margin-left:3px;">
     <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" style="width:50px;height:50px;">
   </a>
 
   
-  <a href="https://leetcode.com/programmerfidaa/">
+  <a href="https://leetcode.com/programmerfidaa/"  style="margin-left:3px;">
     <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="LeetCode Badge" style="width:50px;height:50px;">
   </a>
 
- <a href="https://codeforces.com/profile/fidaa_shwahna">
+ <a href="https://codeforces.com/profile/fidaa_shwahna"  style="margin-left:3px;">
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3029920.png" alt="CodeForces Badge" style="width:50px;height:50px;">
   </a>
 
-   <a href="https://codepen.io/Fidaa2002Shwahna">
+   <a href="https://codepen.io/Fidaa2002Shwahna"  style="margin-left:3px;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png" alt="CodeForces Badge" style="width:50px;height:50px;">
   </a>
 </div>
