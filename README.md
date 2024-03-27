@@ -38,5 +38,6 @@ Languages and Tools:
     <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png?f=webp" style="width:30px;height:30px;">
     <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" style="width:30px;height:30px;">
     <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" style="width:30px;height:30px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" style="width:30px;height:30px;">
 </div>
 
