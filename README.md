@@ -14,7 +14,7 @@
 Connect with me:
 <br>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/fidaa-shwahna-5408b22b6/">
+  <a href="https://www.linkedin.com/in/fidaa-shwahna-5408b22b6/" style="margin-left:1px;">
     <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" style="width:50px;height:50px;">
   </a>
 
