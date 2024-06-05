@@ -7,7 +7,7 @@
 
 - I’m currently studying at Palestine Technical University - Kadoorie
 - My email fidaaahmad154@gmail.com
-- Know about my experiences [CV](https://drive.google.com/file/d/1zFnnqQxHjlG4yb3Wcwrz95p6cKJfvZQy/view?usp=sharing)
+- Know about my experiences [CV](https://drive.google.com/file/d/1ArgOjy3aK53CkPQhqRWpo1cz3VrB8gXJ/view?usp=sharing)
 
 <br>
 
